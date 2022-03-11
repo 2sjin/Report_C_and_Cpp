@@ -1,0 +1,5 @@
+﻿  ch11-2.c
+C:\Users\Richet\Desktop\새 폴더\기프_과제1차\ch11-2\ch11-2.c(21,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+C:\Users\Richet\Desktop\새 폴더\기프_과제1차\ch11-2\ch11-2.c(28,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\Richet\Desktop\새 폴더\기프_과제1차\ch11-2\ch11-2.c(29,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+  ch11-2.vcxproj -> C:\Users\Richet\Desktop\새 폴더\기프_과제1차\Debug\ch11-2.exe
